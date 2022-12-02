@@ -1,0 +1,15 @@
+C:\Users\karam\OneDrive\Рабочий стол\GitHubDWN\30.09-06.11.2022\Task08\bin\Debug\net6.0\Task08.exe
+C:\Users\karam\OneDrive\Рабочий стол\GitHubDWN\30.09-06.11.2022\Task08\bin\Debug\net6.0\Task08.deps.json
+C:\Users\karam\OneDrive\Рабочий стол\GitHubDWN\30.09-06.11.2022\Task08\bin\Debug\net6.0\Task08.runtimeconfig.json
+C:\Users\karam\OneDrive\Рабочий стол\GitHubDWN\30.09-06.11.2022\Task08\bin\Debug\net6.0\Task08.dll
+C:\Users\karam\OneDrive\Рабочий стол\GitHubDWN\30.09-06.11.2022\Task08\bin\Debug\net6.0\Task08.pdb
+C:\Users\karam\OneDrive\Рабочий стол\GitHubDWN\30.09-06.11.2022\Task08\obj\Debug\net6.0\Task08.csproj.AssemblyReference.cache
+C:\Users\karam\OneDrive\Рабочий стол\GitHubDWN\30.09-06.11.2022\Task08\obj\Debug\net6.0\Task08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karam\OneDrive\Рабочий стол\GitHubDWN\30.09-06.11.2022\Task08\obj\Debug\net6.0\Task08.AssemblyInfoInputs.cache
+C:\Users\karam\OneDrive\Рабочий стол\GitHubDWN\30.09-06.11.2022\Task08\obj\Debug\net6.0\Task08.AssemblyInfo.cs
+C:\Users\karam\OneDrive\Рабочий стол\GitHubDWN\30.09-06.11.2022\Task08\obj\Debug\net6.0\Task08.csproj.CoreCompileInputs.cache
+C:\Users\karam\OneDrive\Рабочий стол\GitHubDWN\30.09-06.11.2022\Task08\obj\Debug\net6.0\Task08.dll
+C:\Users\karam\OneDrive\Рабочий стол\GitHubDWN\30.09-06.11.2022\Task08\obj\Debug\net6.0\refint\Task08.dll
+C:\Users\karam\OneDrive\Рабочий стол\GitHubDWN\30.09-06.11.2022\Task08\obj\Debug\net6.0\Task08.pdb
+C:\Users\karam\OneDrive\Рабочий стол\GitHubDWN\30.09-06.11.2022\Task08\obj\Debug\net6.0\Task08.genruntimeconfig.cache
+C:\Users\karam\OneDrive\Рабочий стол\GitHubDWN\30.09-06.11.2022\Task08\obj\Debug\net6.0\ref\Task08.dll
